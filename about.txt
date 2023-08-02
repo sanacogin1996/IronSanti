@@ -1,0 +1,2 @@
+touch about.txt
+echo "Your fun fact" >> about.txt
